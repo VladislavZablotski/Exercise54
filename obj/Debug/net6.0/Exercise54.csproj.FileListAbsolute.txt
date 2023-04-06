@@ -1,0 +1,15 @@
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\Exercise54.csproj.AssemblyReference.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\Exercise54.GeneratedMSBuildEditorConfig.editorconfig
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\Exercise54.AssemblyInfoInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\Exercise54.AssemblyInfo.cs
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\Exercise54.csproj.CoreCompileInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\bin\Debug\net6.0\Exercise54.exe
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\bin\Debug\net6.0\Exercise54.deps.json
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\bin\Debug\net6.0\Exercise54.runtimeconfig.json
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\bin\Debug\net6.0\Exercise54.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\bin\Debug\net6.0\Exercise54.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\Exercise54.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\refint\Exercise54.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\Exercise54.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\Exercise54.genruntimeconfig.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise54\obj\Debug\net6.0\ref\Exercise54.dll
